@@ -1,0 +1,15 @@
+.header {
+  width: 100%;
+  font-size: 2rem;
+  color: #5368b8;
+  margin-bottom: 10px;
+}
+
+.title {
+  float: left;
+  text-decoration: underline;
+}
+
+.scores {
+  float: right;
+}
